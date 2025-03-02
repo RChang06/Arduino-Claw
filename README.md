@@ -11,7 +11,7 @@ Hardware/material Requirement:
 - Arduino kit (Needs to include, servo motor, HC-SR04 Ultrasonic Sensor, jumper wires
 - Power supply (prefferably a mini battery to install on the claw)
 - Any suitable material can work for the framework of claw (aluminium sheets is recommeded
-- 
+  
 
 How it works
 
@@ -22,8 +22,9 @@ How it works
 The system uses a state machine to manage its behaviour split into four states (open, closing, close, opening)
 
 How to run: 
-- Upload the code thorugh the arduino IDE using a .ion file onto the arduino board. [(Quick Tutorial)](https://www.youtube.com/watch?v=oBZw45NWW-I)
-- Connect the Hardware: Wire teh companents as descirbed in the Pin Connections series (this can be adjusted in the code)
-- 
+- Upload the code: Run it through the arduino IDE using a .ion file, and upload it onto the arduino board. [(Quick Tutorial)](https://www.youtube.com/watch?v=oBZw45NWW-I)
+- Connect the Hardware: Wire the companents as descirbed in the Pin Connections series (this can be adjusted in the code)
+- Sourch of Power: Attach the arduino board to a power device
+- Monitor Outputs: Outputs can be used to trouble shoot less reliable hardware like the servo motor
 
 
