@@ -22,7 +22,8 @@ How it works
 The system uses a state machine to manage its behaviour split into four states (open, closing, close, opening)
 
 How to run: 
-- Upload the code thorugh the arduino IDE onto the arduino board https://www.google.com/search?q=how+to+upload+code+to+arduino&rlz=1C1CHBF_enCA1126CA1126&oq=how+to+upload+co&gs_lcrp=EgZjaHJvbWUqDQgAEAAYkQIYgAQYigUyDQgAEAAYkQIYgAQYigUyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIxOTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c0b71538,vid:oBZw45NWW-I,st:0
+- Upload the code thorugh the arduino IDE onto the arduino board [Quick Tutorial](https://www.youtube.com/watch?v=oBZw45NWW-I)
+- 
 - 
 
 
