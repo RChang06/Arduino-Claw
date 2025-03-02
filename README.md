@@ -7,8 +7,7 @@ Features
 - Customizable Triggers: Adjustablle triggers for height and timing delays for release actions
 - Servo-Controlled Claw: The expansion and contraction relies on relies on the torque provided by the servo motor
 
-- ![Reference Image for the claw](https://github.com/RChang06/Arduino-Claw/issues/1#issue-2889401697)
-
+- <img src="https://github.com/RChang06/Arduino-Claw/blob/main/images/claw-reference.png?raw=true" alt="Reference Image for the claw" width="500">
 Hardware/material Requirement:
 - Arduino kit (Needs to include, servo motor, HC-SR04 Ultrasonic Sensor, jumper wires
 - Power supply (prefferably a mini battery to install on the claw)
