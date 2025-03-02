@@ -8,7 +8,7 @@ Features
 - Servo-Controlled Claw: The expansion and contraction relies on relies on the torque provided by the servo motor
 <div align="center">
   <img src="https://github.com/user-attachments/assets/262a8360-075e-45b3-8513-47833e67e3bc" alt="Image" width="85%">
-  <p><em>Isometric sketch of the picture</em></p>
+  <p><em>Isometric Sketch of the claw</em></p>
 </div>
 
 Hardware/material Requirement:
