@@ -6,7 +6,7 @@ Features
 - Ultrasonic Distance: Utilizes an HC_SRO4 Ultrasonic Sensor to measure the distance of objects
 - Customizable Triggers: Adjustablle triggers for height and timing delays for release actions
 - Servo-Controlled Claw: The expansion and contraction relies on relies on the torque provided by the servo motor
-- <img src="hhttps://github.com/RChang06/Arduino-Claw/issues/1#issue-2889401697?raw=true" alt="My Image" width="500">
+- <img src= "https://github.com/RChang06/Arduino-Claw/issues/1#issue-2889401697?raw=true" alt="My Image" width="500">
 Hardware/material Requirement:
 - Arduino kit (Needs to include, servo motor, HC-SR04 Ultrasonic Sensor, jumper wires
 - Power supply (prefferably a mini battery to install on the claw)
