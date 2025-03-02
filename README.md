@@ -22,8 +22,8 @@ How it works
 The system uses a state machine to manage its behaviour split into four states (open, closing, close, opening)
 
 How to run: 
-- Upload the code thorugh the arduino IDE onto the arduino board [Quick Tutorial](https://www.youtube.com/watch?v=oBZw45NWW-I)
-- 
+- Upload the code thorugh the arduino IDE using a .ion file onto the arduino board. [(Quick Tutorial)](https://www.youtube.com/watch?v=oBZw45NWW-I)
+- Connect the Hardware: Wire teh companents as descirbed in the Pin Connections series (this can be adjusted in the code)
 - 
 
 
